@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://akshaya-portfolio-s3lk.vercel.app/">
+<a href="https://akshaya-portfolio-pi.vercel.app/">
 <img src="https://img.shields.io/badge/%E2%9C%A7%20EXPLORE%20MY%20PORTFOLIO-241B24?style=for-the-badge&labelColor=D8A7C7"/>
 </a>
 
@@ -356,7 +356,7 @@ creative technology and people who love building things.**
 
 <br>
 
-<a href="https://akshaya-portfolio-s3lk.vercel.app/">
+<a href="https://akshaya-portfolio-pi.vercel.app/">
 
 <img src="https://img.shields.io/badge/%E2%9C%A6%20EXPLORE%20MY%20PORTFOLIO%20%E2%86%92-D8A7C7?style=for-the-badge&labelColor=241B24"/>
 
